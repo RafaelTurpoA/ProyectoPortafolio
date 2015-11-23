@@ -1,8 +1,8 @@
 /*utilidad*/
 
-.u-title{
+.U-title{
 	color: #00CCFF;
-	border-bottom: 2px dashed #00CCFF;
+	border-bottom: 3px dashed #00CCFF;
 	font-weight: normal;
 	font-size: 1.5em;
 	padding-bottom: 1em;	
@@ -96,7 +96,7 @@
 }
 /*Footer*/
 .Footer{
-	background-image: url("../img/footer.png");
+	background-image: url("../img/footer2.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
